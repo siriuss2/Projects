@@ -1,0 +1,41 @@
+﻿@model List<OrderListViewModel>
+
+<h2>Orders:</h2>
+<br />
+<div class="card-container">
+    @{
+        int orderNumber = 1;
+    }
+    @foreach (var order in Model)
+    {
+        <h3 class="orderNumber">Order: @orderNumber</h3>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+
+                <h5 class="card-title">@order.FullName</h5>
+                <p class="card-text">@order.Address</p>
+
+                <p class="@(order.IsDelivered ? "text-success" : "text-danger")">
+                    @(order.IsDelivered ? "Delivered" : "Not Delivered")
+                </p>
+
+                <br />
+                <div class="OrderPartialBtns">
+                    <a type="button" class="btn btn-danger" asp-action="Delete" asp-route-id="@order.Id">Delete</a>
+                    <br />
+                    <a type="button" class="btn btn-warning" asp-action="Edit" asp-route-id="@order.Id">Edit Order</a>
+                </div>
+
+            </div>
+            <br />
+        </div>
+        orderNumber++;
+    }
+</div>
+<br />
+<div class="OrderIndexBtns">
+    <a class="btn btn-warning" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
+    <br />
+    <br />
+    <a class="btn btn-secondary" asp-area="" asp-controller="Order" asp-action="Create">Create order</a>
+</div>

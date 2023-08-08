@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibraryApp.Mappers/1.0.0": {
+        "dependencies": {
+          "LibraryApp.Domain": "1.0.0",
+          "LibraryApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "LibraryApp.Mappers.dll": {}
+        }
+      },
+      "LibraryApp.Domain/1.0.0": {
+        "runtime": {
+          "LibraryApp.Domain.dll": {}
+        }
+      },
+      "LibraryApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "LibraryApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LibraryApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿@model AuthorDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4">About @Model.FirstName @Model.LastName</h2>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-body card-body-details">
+        <img class="card-img-top card-img" src="@Model.ImageUrl" alt="Card image cap">
+        <div class="author-details">
+            <p class="card-title card-title-name"><strong>Full Name:</strong> @Model.FirstName @Model.LastName</p>
+            <p class="card-title card-title-name"><strong>Nationality: </strong>@Model.Nationality</p>
+            <p class="card-title card-title-name"><strong>Books Published: </strong>@Model.BooksPublished</p>
+            <p class="card-title card-title-name"><strong>Birth Date: </strong>@Model.BirthDate</p>
+            <p class="card-title card-title-name"><strong>Biography: </strong>@Model.Biography</p>
+        </div>
+    </div>
+</div>
+<br />

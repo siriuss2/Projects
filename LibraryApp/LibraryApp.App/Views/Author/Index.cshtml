@@ -1,0 +1,25 @@
+﻿@model List<AuthorListViewModel>
+
+<br />
+
+<div class="row">
+    @foreach (var author in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img class="card-img-top authorsImg" src="@author.ImageUrl" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title authorFullName">@author.FirstName @author.LastName</h5>
+                    <p class="card-text authorNationality"><strong>Nationality:</strong> @author.Nationality</p>
+                    <a type="button" class="btn btn-link" asp-action="Details" asp-route-id="@author.Id">View Details</a>
+                    <a type="button" class="btn btn-link" asp-action="Edit" asp-route-id="@author.Id">Edit</a>
+                    <a type="button" class="btn btn-danger btnDeleteAuthor" asp-action="Delete" asp-route-id="@author.Id">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<a class="btn btn-secondary" asp-area="" asp-controller="Author" asp-action="Create">Add Author</a>
+
+

@@ -1,0 +1,41 @@
+﻿@model BurgerDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4">Burger Details</h2>
+</div>
+<br />
+
+@{
+    double priceWithFriesOnly = Model.Price + 0.30;
+    double priceOnPromotionWithFries = Model.Price - 0.50;
+    double priceOnPromotionOnly = Model.Price - 0.80;
+}
+
+<div class="card">
+    <div class="card-body card-body-details">
+        <img class="card-img-top card-img" src="@Model.ImageUrl" alt="Card image cap">
+        <div class="burger-details">
+            <h5 class="card-title card-title-name">Name: @Model.Name</h5>
+
+            <h5 class="card-title card-title-name">Is Vegetarian: @(Model.IsVegetarian ? "✓" : "✗")</h5>
+            <h5 class="card-title card-title-name">Is Vegan: @(Model.IsVegan ? "✓" : "✗")</h5>
+            <h5 class="card-title card-title-name">Fries: @(Model.HasFries ? "✓" : "✗")</h5>
+            <h5 class="card-title card-title-name">On Promotion: @(Model.IsOnPromotion ? "✓" : "✗")</h5>
+
+            <br />
+            <br />
+
+           
+
+            @{
+                var price = Model.HasFries
+                ? (Model.IsOnPromotion ? priceOnPromotionWithFries : priceWithFriesOnly)
+                : (Model.IsOnPromotion ? priceOnPromotionOnly : Model.Price);
+            }
+
+            <h5 class="card-title card-title-name">Price: @(price.ToString("0.00"))$</h5>
+
+        </div>
+    </div>
+</div>
+<br />

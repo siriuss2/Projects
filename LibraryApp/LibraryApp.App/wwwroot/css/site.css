@@ -1,0 +1,72 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.authorsImg {
+    height: 500px;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.authorFullName {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.authorNationality {
+    text-align: center;
+}
+
+.card-img {
+    height: 450px;
+    width: 400px;
+    margin-left: 50px;
+}
+
+.author-details {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -420px;
+}
+
+.btnDeleteAuthor{
+    margin-left: 180px;
+}
+
+.book-details {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: -420px;
+}
+
+.card-img-bookDetails {
+    height: 450px;
+    width: 350px;
+    margin-left: 50px;
+}
+
+.card-img-bookIndex {
+    height: 350px;
+    width: 250px;
+    margin-left: 5px;
+    margin-top: 5px;
+}

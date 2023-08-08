@@ -1,0 +1,21 @@
+﻿@model BookDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4">About @Model.Title</h2>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-body card-body-details">
+        <img class="card-img-top card-img-bookDetails" src="@Model.ImageUrl" alt="Card image cap">
+        <div class="book-details">
+            <p class="card-title card-title-name"><strong>Title:</strong> "@Model.Title"</p>
+            <p class="card-title card-title-name"><strong>Published by:</strong> @Model.AuthorFullName</p>
+            <p class="card-title card-title-name"><strong>Genre: </strong>@Model.Genre</p>
+            <p class="card-title card-title-name"><strong>ISBN: </strong>@Model.ISBN</p>
+            <p class="card-title card-title-name"><strong>Publication Date: </strong>@Model.PublicationDate.ToString("dd/MM/yyyy")</p>
+            <p class="card-title card-title-name"><strong>Synopsis: </strong>@Model.Synopsis</p>
+        </div>
+    </div>
+</div>
+<br />

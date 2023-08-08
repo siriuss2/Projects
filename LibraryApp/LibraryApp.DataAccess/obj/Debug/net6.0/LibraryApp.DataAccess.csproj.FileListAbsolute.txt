@@ -1,0 +1,17 @@
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.deps.json
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.runtimeconfig.json
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.Domain.dll
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\bin\Debug\net6.0\LibraryApp.Domain.pdb
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.csproj.CopyComplete
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.dll
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\refint\LibraryApp.DataAccess.dll
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.pdb
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\LibraryApp.DataAccess.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.DataAccess\obj\Debug\net6.0\ref\LibraryApp.DataAccess.dll

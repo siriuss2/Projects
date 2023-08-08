@@ -1,0 +1,18 @@
+﻿@model List<BookListViewModel>
+
+<br />
+<div class="row">
+    @foreach (var book in Model)
+    {
+        <div class="card border-success mb-3" style="max-width: 18rem; margin-left: 10px;">
+            <img class="card-img-top card-img-bookIndex" src="@book.ImageUrl" alt="Card image cap">
+            <div class="card-body text-success">
+                <h5 class="card-title">@book.Title</h5>
+                <button type="button" class="btn"><a asp-action="Details" asp-route-id="@book.Id">Details</a></button>
+                <button type="button" class="btn"><a asp-action="Edit" asp-route-id="@book.Id">Edit</a></button>
+                <button type="button" class="btn"><a asp-action="Delete" asp-route-id="@book.Id">Delete</a></button>
+            </div>
+        </div>
+    }
+</div>
+<a class="btn btn-secondary" asp-area="" asp-controller="Book" asp-action="Create">Add Book</a>

@@ -1,0 +1,39 @@
+﻿@model AuthorViewModel
+
+<h3>Add Author</h3>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div class="form-group">
+                <label asp-for="FirstName" class="custom-control-label"></label>
+                <input type="text" asp-for="FirstName" />
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="custom-control-label"></label>
+                <input type="text" asp-for="LastName" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="custom-control-label"></label>
+                <input type="text" asp-for="ImageUrl" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Nationality" class="custom-control-label"></label>
+                <input type="text" asp-for="Nationality" />
+            </div>
+            <div class="form-group">
+                <label asp-for="BirthDate" class="custom-control-label"></label>
+                <input type="text" asp-for="BirthDate" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Biography" class="custom-control-label"></label>
+                <input type="text" asp-for="Biography" />
+            </div>
+            <div class="form-group">
+                <label asp-for="BooksPublished" class="custom-control-label"></label>
+                <input type="double" asp-for="BooksPublished" />
+            </div>
+            <button type="submit" class="btn btn-outline-success">Create</button>
+        </form>
+    </div>
+</div>

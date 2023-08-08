@@ -1,0 +1,32 @@
+﻿@model List<LocationListViewModel>
+
+<h2>Locations:</h2>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Opens At</th>
+            <th>Closes At</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var location in Model)
+        {
+            <tr>
+                <td>@location.Name</td>
+                <td>@location.Address</td>
+                <td>@location.OpensAt AM</td>
+                <td>@location.ClosesAt PM</td>
+                <td><a type="button" class="btn btn-danger" asp-action="Delete" asp-route-id="@location.Id">Delete</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a type="button" class="btn btn-secondary" asp-action="Create" asp-route-id="Model.Id">Add Location</a>
+

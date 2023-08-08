@@ -1,0 +1,50 @@
+﻿@model List<BurgerListViewModel>
+
+
+<h2>Burgers:</h2>
+<br />
+
+<div class="card-container">
+    
+    @foreach (var burger in @Model)
+    {
+        
+        double priceWithFriesOnly = burger.Price + 0.30;
+        double priceOnPromotionWithFries = burger.Price - 0.50;
+        double priceOnPromotionOnly = burger.Price - 0.80;
+    
+        
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="@burger.ImageUrl" alt="Card image cap" height="250px">
+            <div class="card-body">
+                <h5 class="card-title">@burger.Name</h5>
+
+                <p class="card-text">
+                    @(
+                        @burger.HasFries
+                        ? (@burger.IsOnPromotion ? priceOnPromotionWithFries : priceWithFriesOnly)
+                        : (@burger.IsOnPromotion ? priceOnPromotionOnly : @burger.Price)
+                        .ToString("0.00"))$
+                </p>
+
+
+            </div>
+            <br />
+            <a type="button" class="btn btn-primary" asp-action="Details" asp-route-id="@burger.Id">Details</a>
+            <br />
+            <a type="button" class="btn btn-warning" asp-action="Edit" asp-route-id="@burger.Id">Edit</a>
+            <br />
+            <a type="button" class="btn btn-danger" asp-action="Delete" asp-route-id="@burger.Id">Delete</a>
+
+        </div>
+    }
+</div>
+<br />
+
+<div class="HomeIndexBtns">
+    <a class="btn btn-warning btnHomePage" asp-area="" asp-controller="Home" asp-action="Index">Home page</a>
+    <br />
+    <br />
+    <a class="btn btn-secondary btnCreateBurger" asp-area="" asp-controller="Burger" asp-action="Create">Add Burger</a>
+</div>
+
