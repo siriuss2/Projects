@@ -15,9 +15,8 @@ namespace LibraryApp.DataAccess.Repositories.Implementations
         }
         public async Task<int> DeleteById(int id)
         {
-            Book bookDb = await _dbContext.Books.SingleOrDefaultAsync(x => x.Id == id);
-            if (bookDb == null)
-                throw new Exception($"{nameof(Book)} cannot be deleted");
+            Book bookDb = await _dbContext.Books.SingleOrDefaultAsync(x => x.Id == id) 
+                ?? throw new Exception($"{nameof(Book)} cannot be deleted");
 
             _dbContext.Books.Remove(bookDb);
             _dbContext.SaveChangesAsync();

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaxiManager.Services/1.0.0": {
+        "dependencies": {
+          "TaxiManager.DataAccess": "1.0.0",
+          "TaxiManager.DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "TaxiManager.Services.dll": {}
+        }
+      },
+      "TaxiManager.DataAccess/1.0.0": {
+        "dependencies": {
+          "TaxiManager.DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "TaxiManager.DataAccess.dll": {}
+        }
+      },
+      "TaxiManager.DomainModels/1.0.0": {
+        "runtime": {
+          "TaxiManager.DomainModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxiManager.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiManager.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiManager.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

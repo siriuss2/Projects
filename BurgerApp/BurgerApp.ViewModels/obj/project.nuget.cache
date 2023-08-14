@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/CKFM+sRhsBzVoEZCb9ertz1/hyEL5XofJiUfBMl+y0ZIbSTWNlh3Xh19kTw0GKOnWshqJxkPxjdALoIzuiWg==",
+  "dgSpecHash": "EdudofjRJRFxBd/K6IwslACvbR12rVWMmJyZTCckpKCLA3TeEi2IzHNR5cFZ5zA44kHla8msPc4fpP1UyFl5yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

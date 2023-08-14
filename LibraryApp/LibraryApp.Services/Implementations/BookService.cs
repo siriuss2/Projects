@@ -20,7 +20,7 @@ namespace LibraryApp.Services.Implementations
             return _bookRepository.Insert(bookViewModel.ToBook());
         }
 
-        public async Task<int> DeleteBookById(int id)   
+        public async Task<int> DeleteBookById(int id)
         {
             return await _bookRepository.DeleteById(id);
         }

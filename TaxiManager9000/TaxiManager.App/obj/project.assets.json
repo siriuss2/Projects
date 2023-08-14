@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TaxiManager.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaxiManager.DomainModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaxiManager.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager.DataAccess.dll": {}
+        }
+      },
+      "TaxiManager.DomainModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaxiManager.DomainModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager.DomainModels.dll": {}
+        }
+      },
+      "TaxiManager.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaxiManager.DataAccess": "1.0.0",
+          "TaxiManager.DomainModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaxiManager.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaxiManager.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxiManager.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager.DataAccess/TaxiManager.DataAccess.csproj",
+      "msbuildProject": "../TaxiManager.DataAccess/TaxiManager.DataAccess.csproj"
+    },
+    "TaxiManager.DomainModels/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager.DomainModels/TaxiManager.DomainModels.csproj",
+      "msbuildProject": "../TaxiManager.DomainModels/TaxiManager.DomainModels.csproj"
+    },
+    "TaxiManager.Services/1.0.0": {
+      "type": "project",
+      "path": "../TaxiManager.Services/TaxiManager.Services.csproj",
+      "msbuildProject": "../TaxiManager.Services/TaxiManager.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TaxiManager.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dragan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\CSharpAdvanced_Class\\TaxiManager9000\\TaxiManager.App\\TaxiManager.App.csproj",
+      "projectName": "TaxiManager.App",
+      "projectPath": "C:\\Users\\Dragan\\Desktop\\CSharpAdvanced_Class\\TaxiManager9000\\TaxiManager.App\\TaxiManager.App.csproj",
+      "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dragan\\Desktop\\CSharpAdvanced_Class\\TaxiManager9000\\TaxiManager.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Dragan\\Desktop\\CSharpAdvanced_Class\\TaxiManager9000\\TaxiManager.Services\\TaxiManager.Services.csproj": {
+              "projectPath": "C:\\Users\\Dragan\\Desktop\\CSharpAdvanced_Class\\TaxiManager9000\\TaxiManager.Services\\TaxiManager.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

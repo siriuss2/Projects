@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpiemUF415szms7f6vUtNoxUk/CyZX5QzckWyzP/l0+xV9tuIUjsitrDRZwx1Huslq4+eKUpT+GAmRt2co9nRw==",
+  "dgSpecHash": "IIyqdqKG1NfUfPyQIwiNbbO11e1BSiPYjonjZU7sFGM+QiqbgXN2QWpjyjGaCNGPBf47CjAVPv2R4NJOPGJfLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Dragan\\Desktop\\Projects\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

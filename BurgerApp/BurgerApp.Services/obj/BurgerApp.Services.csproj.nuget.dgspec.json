@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {}
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "projectName": "BurgerApp.DataAccess",
-        "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "projectName": "BurgerApp.Domain",
-        "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
         "projectName": "BurgerApp.Mappers",
-        "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
         "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\obj\\",
+        "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,11 +179,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               },
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
         "projectName": "BurgerApp.Services",
-        "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
         "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Services\\obj\\",
+        "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,14 +246,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.DataAccess\\BurgerApp.DataAccess.csproj"
               },
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
               },
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj"
               }
             }
           }
@@ -287,14 +287,14 @@
         }
       }
     },
-    "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
+    "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
         "projectName": "BurgerApp.ViewModels",
-        "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
+        "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\BurgerApp.ViewModels.csproj",
         "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -316,8 +316,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
+              "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\BurgerApp\\BurgerApp.Domain\\BurgerApp.Domain.csproj"
               }
             }
           }

@@ -11,8 +11,6 @@ namespace LibraryApp.Mappers
             {
                 Id = book.Id,
                 ImageUrl = book.ImageUrl,
-                PublicationDate = book.PublicationDate,
-                Synopsis = book.Synopsis,
                 Title = book.Title
             };
         }

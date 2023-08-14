@@ -1,0 +1,15 @@
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\bin\Debug\net6.0\TaxiManager.DataAccess.deps.json
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\bin\Debug\net6.0\TaxiManager.DataAccess.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\bin\Debug\net6.0\TaxiManager.DataAccess.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\bin\Debug\net6.0\TaxiManager.DomainModels.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\bin\Debug\net6.0\TaxiManager.DomainModels.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.csproj.CopyComplete
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\refint\TaxiManager.DataAccess.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\TaxiManager.DataAccess.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DataAccess\obj\Debug\net6.0\ref\TaxiManager.DataAccess.dll

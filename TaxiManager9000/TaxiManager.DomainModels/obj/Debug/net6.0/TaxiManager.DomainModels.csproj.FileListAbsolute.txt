@@ -1,0 +1,12 @@
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\bin\Debug\net6.0\TaxiManager.DomainModels.deps.json
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\bin\Debug\net6.0\TaxiManager.DomainModels.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\bin\Debug\net6.0\TaxiManager.DomainModels.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\refint\TaxiManager.DomainModels.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\TaxiManager.DomainModels.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.DomainModels\obj\Debug\net6.0\ref\TaxiManager.DomainModels.dll

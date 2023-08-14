@@ -21,12 +21,14 @@ namespace LibraryApp.Helpers
         {
             services.AddTransient<IAuthorService, AuthorService>();
             services.AddTransient<IBookService, BookService>();
+            services.AddTransient<IMemberService, MemberService>();
         }
 
         public static void InjectRepositories(this IServiceCollection services)
         {
             services.AddTransient<IRepository<Author>, AuthorRepository>();
             services.AddTransient<IRepository<Book>, BookRepository>();
+            services.AddTransient<IRepository<Member>, MemberRepository>();
         }
     }
 }

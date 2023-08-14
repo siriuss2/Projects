@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Dragan\\Desktop\\Projects\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
       "projectName": "LibraryApp.Domain",
-      "projectPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
+      "projectPath": "C:\\Users\\Dragan\\Desktop\\Projects\\LibraryApp\\LibraryApp.Domain\\LibraryApp.Domain.csproj",
       "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dragan\\Desktop\\MVC_HomeWorks\\LibraryApp\\LibraryApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Dragan\\Desktop\\Projects\\LibraryApp\\LibraryApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

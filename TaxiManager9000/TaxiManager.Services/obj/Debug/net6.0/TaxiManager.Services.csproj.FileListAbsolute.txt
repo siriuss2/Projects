@@ -1,0 +1,17 @@
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.Services.deps.json
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.Services.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.Services.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.DataAccess.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.DomainModels.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.DataAccess.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\bin\Debug\net6.0\TaxiManager.DomainModels.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.csproj.CopyComplete
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\refint\TaxiManager.Services.dll
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\TaxiManager.Services.pdb
+C:\Users\Dragan\Desktop\CSharpAdvanced_Class\TaxiManager9000\TaxiManager.Services\obj\Debug\net6.0\ref\TaxiManager.Services.dll
