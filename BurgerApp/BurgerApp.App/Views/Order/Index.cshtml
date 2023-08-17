@@ -1,15 +1,14 @@
 ﻿@model List<OrderListViewModel>
 
-<h2>Orders:</h2>
-<br />
 <div class="card-container">
     @{
         int orderNumber = 1;
     }
     @foreach (var order in Model)
     {
-        <h3 class="orderNumber">Order: @orderNumber</h3>
         <div class="card" style="width: 18rem;">
+            <h3 class="orderNumber">Order: @orderNumber</h3>
+
             <div class="card-body">
 
                 <h5 class="card-title">@order.FullName</h5>

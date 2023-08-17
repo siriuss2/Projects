@@ -50,12 +50,10 @@ namespace BurgerApp.App.Controllers
             ViewBag.Locations = await _locationService.GetLocationsForDropdown();
             ViewBag.Burgers = await _burgerService.GetBurgersForDropdown();
 
-
             return View(orderViewModel);
         }
 
         [HttpPost]
-
         public async Task<IActionResult> Edit(OrderViewModel orderViewModel)
         {
             await _orderService.EditOrder(orderViewModel);
