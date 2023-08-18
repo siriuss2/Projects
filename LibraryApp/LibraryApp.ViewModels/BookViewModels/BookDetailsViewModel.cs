@@ -11,6 +11,6 @@ namespace LibraryApp.ViewModels.BookViewModels
         public string ISBN { get; set; } = string.Empty;
         public DateTime PublicationDate { get; set; }
         public string Synopsis { get; set; } = string.Empty;
-        public string AuthorFullName { get; set; }
+        public string AuthorFullName { get; set; } = string.Empty;
     }
 }

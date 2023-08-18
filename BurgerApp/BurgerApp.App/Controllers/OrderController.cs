@@ -1,5 +1,4 @@
 ﻿using BurgerApp.Services.Interfaces;
-using BurgerApp.ViewModels.BurgerViewModels;
 using BurgerApp.ViewModels.OrderViewModels;
 using Microsoft.AspNetCore.Mvc;
 

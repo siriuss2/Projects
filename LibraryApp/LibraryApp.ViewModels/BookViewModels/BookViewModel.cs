@@ -1,4 +1,5 @@
 ﻿using LibraryApp.Domain.Enums;
+using LibraryApp.ViewModels.AuthorViewModels;
 using System.ComponentModel.DataAnnotations;
 
 namespace LibraryApp.ViewModels.BookViewModels

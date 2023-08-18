@@ -33,7 +33,9 @@ namespace LibraryApp.DataAccess.Repositories.Implementations
 
         public async Task<Book> GetById(int id)
         {
-            return await _dbContext.Books.SingleOrDefaultAsync(x => x.Id == id);
+            return await _dbContext.Books
+                .Include(x=>x.Author)
+                .SingleOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task Insert(Book entity)

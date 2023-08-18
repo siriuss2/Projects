@@ -1,5 +1,4 @@
 ﻿using BurgerApp.Domain.Models;
-using BurgerApp.ViewModels.BurgerViewModels;
 using BurgerApp.ViewModels.OrderViewModels;
 
 namespace BurgerApp.Mappers.OrderMappers
