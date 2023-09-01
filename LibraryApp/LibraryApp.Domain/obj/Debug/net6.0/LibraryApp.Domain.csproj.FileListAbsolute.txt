@@ -13,7 +13,6 @@ C:\Users\Dragan\Desktop\MVC_HomeWorks\LibraryApp\LibraryApp.Domain\obj\Debug\net
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.deps.json
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.dll
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\bin\Debug\net6.0\LibraryApp.Domain.pdb
-C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.csproj.AssemblyReference.cache
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.AssemblyInfoInputs.cache
 C:\Users\Dragan\Desktop\Projects\LibraryApp\LibraryApp.Domain\obj\Debug\net6.0\LibraryApp.Domain.AssemblyInfo.cs
