@@ -1,0 +1,17 @@
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.Mappers.deps.json
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.Mappers.dll
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.Mappers.pdb
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.DTOs.dll
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.DTOs.pdb
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.csproj.CopyComplete
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.dll
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\refint\MovieApp.Mappers.dll
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\MovieApp.Mappers.pdb
+C:\Users\Dragan\Desktop\Projects\MovieApp\MovieApp.Mappers\obj\Debug\net6.0\ref\MovieApp.Mappers.dll
